@@ -60,3 +60,10 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+#windows shell
+/*.bat
+
+#pycharm
+/.idea
+
